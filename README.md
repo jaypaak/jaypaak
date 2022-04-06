@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&height=300&section=header&text=CWCTBOY&fontSize=100&rotate=19&fontAlign=65&fontAlignY=38&animation=twinkling)
 
 
-  <h3 align="left">Using🧑🏻‍💻</h3>
+  <h3 align="left">Using 🧑🏻‍💻</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   </a> 
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-  <h3 align="left">Practicing📚</h3>
+  <h3 align="left">Practicing 📚</h3>
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -39,5 +39,6 @@
 </p>
 <br/>
 <br/>
+  <h3 align="center">Another Info</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" /></p>
 
