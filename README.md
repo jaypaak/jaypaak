@@ -26,7 +26,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a> 
-    <img src='https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Apple-MacBook_Pro?style=for-the-badge&logo=apple&logoColor=white'/>
 </p>
   
 <hr/>
