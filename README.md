@@ -2,9 +2,9 @@
 
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
 
-  <h3 align="left">· IDE</h3>
+  <h3 align="left">· Dev_Environments</h3>
 <p align="left">
-  <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
+  <img src='https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white'/>
       <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 </p>
 <hr/>
@@ -17,16 +17,16 @@
   <br/>
   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
-      <img src=''/>
+      <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
 </p>
 <br/>
   <h3 align="left">· Practicing📚</h3>
   <p align="left">
-<img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a> 
-    <img src='https://img.shields.io/badge/Apple-MacBook_Pro?style=for-the-badge&logo=apple&logoColor=white'/>
+    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
+   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
+  <br/>
+  <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
+  <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'/>
 </p>
   
 <hr/>
