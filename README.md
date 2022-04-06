@@ -3,6 +3,7 @@
 
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
 <hr/>
+
   <h3 align="left">· Major - Using 🧑🏻‍💻</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
