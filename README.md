@@ -18,7 +18,7 @@
   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
   <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="https://img.shields.io/badge/CSS--IN--JS-Emotion-%20%23CC6699"/>
+  <img src="https://img.shields.io/badge/CSS--IN--JS-Emotion-%20%23CC6699" height='30'/>
 </a>
 <br/>
       <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
