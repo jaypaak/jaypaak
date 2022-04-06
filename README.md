@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00E248&height=300&section=header&text=CWCTBOY&fontSize=100&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=The%20Post%20CEO%20Aggregation)
 
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
+</p>
+
 <hr/>
   <h3 align="left">· Major - Using 🧑🏻‍💻</h3>
 <p align="left">
@@ -24,7 +28,4 @@
 </p>
 <hr/>
   <h3 align="left">· Ratio Ⓡ</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
-</p>
 
