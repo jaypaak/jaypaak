@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&height=300&section=header&text=CWCTBOY&fontSize=100&rotate=19&fontAlign=65&fontAlignY=38&animation=twinkling)
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
 [![cwctboy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cwctboy)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <br/>
   <h3 align="left">Using 🧑🏻‍💻</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -21,10 +23,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
 </p>
-
 <br/>
 <br/>
-
   <h3 align="left">Practicing 📚</h3>
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
