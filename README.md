@@ -14,14 +14,14 @@
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <br/>
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+    <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
+      <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
+<br/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
   <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
   <img src="https://img.shields.io/badge/CSS--IN--JS-Emotion-%20%23CC6699" height='28'/>
-</a>
-<br/>
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-    <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
-      <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
+    </a>
 </p>
 <br/>
   <h3 align="left">· Interested & Studying 📚</h3>
