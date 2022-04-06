@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&height=300&section=header&text=CWCTBOY&fontSize=100&rotate=19&fontAlign=65&fontAlignY=38&animation=twinkling)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
 
   <h3 align="left">Using 🧑🏻‍💻</h3>
 <p align="left">
@@ -42,6 +42,5 @@
   <h3 align="left">Another Info</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
-
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwctboy&show_icons=true&theme=radical)
+
