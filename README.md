@@ -27,6 +27,6 @@
 <hr/>
   <h3 align="left">· Ratio Ⓡ</h3>
     <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy"   width="40" height="40"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy"   width="500" height="190"/>
 </p>
 
