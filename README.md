@@ -25,7 +25,7 @@
 
 </p>
 <br/>
-  <h3 align="left">Another Info</h3>
+  <h3 align="left">Ratio</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
 </p>
