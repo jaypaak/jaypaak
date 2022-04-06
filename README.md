@@ -4,6 +4,7 @@
 
   <h3 align="left">· IDE</h3>
 <p align="left">
+  <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
       <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 </p>
 <hr/>
