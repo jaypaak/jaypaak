@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00E248&height=300&section=header&text=CWCTBOY&fontSize=100&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=The%20Post%20CEO%20Aggregation)
 
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
-</p>
-
 <hr/>
   <h3 align="left">· Major - Using 🧑🏻‍💻</h3>
 <p align="left">
@@ -17,6 +13,7 @@
   </a>
        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" alt="nextjs" width="40" height="40"/> </a>
 </p>
+<br/>
   <h3 align="left">· Practicing 📚</h3>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -28,4 +25,6 @@
 </p>
 <hr/>
   <h3 align="left">· Ratio Ⓡ</h3>
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
+</p>
