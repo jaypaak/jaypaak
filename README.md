@@ -17,12 +17,16 @@
   <br/>
   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
+  <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Emotion"></img>
+</a>
+<br/>
       <img src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'/>
 </p>
 <br/>
   <h3 align="left">· Interested & Studying</h3>
   <p align="left">
-    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
   <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white'/>
