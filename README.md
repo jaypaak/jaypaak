@@ -2,7 +2,6 @@
 
 ![cwctboy GitHub stats](https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical)
   <br/>
-  <br/>
   <h3 align="left">Using 🧑🏻‍💻</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -24,7 +23,6 @@
   </a> 
 </p>
 <br/>
-<br/>
   <h3 align="left">Practicing 📚</h3>
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -38,10 +36,7 @@
   </a> 
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
-  <h3 align="left">Another Info</h3>
+  <h3 align="left">Language Ratio</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwctboy&show_icons=true&locale=en&layout=compact" alt="cwctboy" />
 </p>
