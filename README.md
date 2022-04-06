@@ -13,7 +13,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-<hr/>
   <h3 align="left">· Practicing 📚</h3>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
