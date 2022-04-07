@@ -20,7 +20,7 @@
 <br/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
   <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="https://img.shields.io/badge/CSS--IN--JS-Emotion-%20%23CC6699" height='28'/>
+  <img src="https://img.shields.io/badge/CSS--In--JS-Emotion-%20%23CC6699" height='28'/>
     </a>
 </p>
 <br/>
