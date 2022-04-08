@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ABCDEB,20:2DA2D7,100:00E248&height=300&section=header&text=CWCTBOY&fontSize=100&fontAlign=50&fontAlignY=38&animation=twinkling&desc=The%20Post%20CEO%20Aggregation)
 
-<div style='display:flex; justify-content:space-around; align-items:center;'>
+<p style='display:flex; justify-content:space-around; align-items:center;'>
 <img src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical'/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
-</div>
+</p>
 
 
 <hr/>
