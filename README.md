@@ -11,7 +11,7 @@
 <p align="left">
   <img src='https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white'/>
       <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical' width='350'/>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical' width='350' height='170'/>
 </p>
 <br/>
   <h3 align="left">· Major Programming Language & FrameWork ⌨️</h3>  
