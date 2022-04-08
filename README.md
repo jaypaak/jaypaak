@@ -14,12 +14,11 @@
   <img align='right' src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical'/>
 </p>
 <br/>
-  <h3 align="left">· Major Programming Language & FrameWork ⌨️</h3>
+  <h3 align="left">· Major Programming Language & FrameWork ⌨️</h3>  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
 <p align="left">
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
   <br/>
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
     <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
