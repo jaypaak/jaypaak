@@ -18,14 +18,15 @@
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <br/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
-  <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="https://img.shields.io/badge/CSS--In--JS-Emotion-%20%23CC6699" height='28'/>
-    </a>  
 </p>
 <br/>
   <h3 align="left">· Interested & Studying 📚</h3>
   <p align="left">
     <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <br/>
+    <a href="https://twitter.com/intent/tweet?text=Emotion&url=https%3A%2F%2Femotion.sh%2Fdocs%2Fintroduction&hashtags=Emotion&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="https://img.shields.io/badge/CSS--In--JS-Emotion-%20%23CC6699" height='28'/>
+    </a>  
 </p>
 
