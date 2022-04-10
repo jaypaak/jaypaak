@@ -8,7 +8,7 @@
 
 </p>
 <br/>
-  <h3 align="center">· Major Programming Language & FrameWork ⌨️</h3>  
+  <h3 align="center">· Major_Language_FrameWork ⌨️</h3>  
 <p align="center">
     <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
@@ -16,7 +16,7 @@
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
 </p>
 <br/>
-  <h3 align="center">· Interested & Studying 📚</h3>
+  <h3 align="center">· Studying 📚</h3>
   <p align="center">
     <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
