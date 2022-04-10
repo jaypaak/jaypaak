@@ -30,4 +30,4 @@
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9FFFFFF,5:FFFFFFFF,95:FFFFFFFF,100:D9FFFFFF&section=footer&descSize=15&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFFFF,100:FFFFFFFF&section=footer&descSize=15&height=100)
