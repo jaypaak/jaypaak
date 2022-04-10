@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9FFFFFF,5:FFFFFFFF,95:FFFFFFFF,100:D9FFFFFF&height=300&section=header&text=CWCTBOY&fontSize=50&fontColor=95a5a6&fontAlign=50&fontAlignY=38&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9FFFFFF,5:FFFFFFFF,95:FFFFFFFF,100:D9FFFFFF&section=header&descSize=15&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=100&section=header&text=CWCTBOY&fontSize=50&fontColor=95a5a6&fontAlign=50&fontAlignY=38&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15&height=100)
 
   <h3 align="center">· Dev_Environments 🧑🏻‍💻</h3>
 <p align="center">
@@ -28,3 +29,5 @@
 <p align='center'>
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9FFFFFF,5:FFFFFFFF,95:FFFFFFFF,100:D9FFFFFF&section=footer&descSize=15&height=100)
