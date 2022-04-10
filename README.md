@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF000000,100:FF000000&height=300&section=header&text=CWCTBOY&fontSize=50&fontColor=bdc3c7&fontAlign=50&fontAlignY=48&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9FFFFFF,5:FFFFFFFF,95:FFFFFFFF,100:D9FFFFFF&height=300&section=header&text=CWCTBOY&fontSize=50&fontColor=95a5a6&fontAlign=50&fontAlignY=38&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15&height=100)
 
   <h3 align="center">· Dev_Environments 🧑🏻‍💻</h3>
 <p align="center">
