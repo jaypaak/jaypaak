@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS--In--JS-Emotion-%20%23CC6699" height='28'/>
     </a>  
 </p>
+<hr/>
 <p align='center'>
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
 </p>
