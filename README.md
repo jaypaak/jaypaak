@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:D9FFFFFF,5:FF000000,95:FF000000,100:D9FFFFFF&height=300&section=header&text=CWCTBOY&fontSize=50&fontColor=d6ace6&fontAlign=50&fontAlignY=48&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF000000,100:FF000000&height=300&section=header&text=CWCTBOY&fontSize=50&fontColor=bdc3c7&fontAlign=50&fontAlignY=48&animation=twinkling&desc=The%20Post%20CEO%20Aggregation&descSize=15)
 <p align='left'>
 <!-- <img  src='https://github-readme-stats.vercel.app/api?username=CWCTBOY&show_icons=true&theme=radical' width='435'/> -->
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlswo98"/>
