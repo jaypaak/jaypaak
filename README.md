@@ -4,8 +4,6 @@
   <h3 align="center">· Dev_Environments 🧑🏻‍💻</h3>
 <p align="center">
   <img src='https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white'/>
-      <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
-
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFFFF,100:FFFFFFFF&section=footer&descSize=15&height=100)
